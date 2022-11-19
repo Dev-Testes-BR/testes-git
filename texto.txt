@@ -12,3 +12,5 @@ nova linha a pedido do criador
 ++++++++++++++++++++++++++++++++
 
 adicionado novas linhas de uma nova branch
+
+texto a partir da branch linha
