@@ -8,3 +8,7 @@ texto adicionado usando a nova_branch
 adicionando texto de outra conta
 
 nova linha a pedido do criador
+
+++++++++++++++++++++++++++++++++
+
+adicionado novas linhas de uma nova branch
